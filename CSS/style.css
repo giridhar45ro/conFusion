@@ -43,3 +43,6 @@ body{
 #peterhead,#albertohead,#dannyhead,#agumbehead{
     cursor: pointer;
 }
+#loginModal{
+    color: grey;
+}
